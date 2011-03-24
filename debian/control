@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: David Cramer <dcramer@gmail.com>
 Homepage: https://github.com/dcramer/django-paging
 Bugs: https://github.com/dcramer/django-paging/issues
-Build-Depends: debhelper, python-support
+Build-Depends: debhelper, python-support, python-setuptools
 
 Package: python-django-paging
 Architecture: all
