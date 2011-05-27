@@ -1,3 +1,9 @@
+python-django-paging (0.2.4-0sg0) lucid; urgency=low
+
+  * Version bump
+
+ -- Jon rohan <jonathanrohan@gmail.com>  Fri, 27 May 2011 16:19:00 -0800
+
 python-django-paging (0.2.2-0sg0) lucid; urgency=low
 
   * Modified the debianization for simplegeo
