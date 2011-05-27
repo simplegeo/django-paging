@@ -1,3 +1,9 @@
+python-django-paging (0.2.4-0sg7) lucid; urgency=low
+
+  * UNRELEASED
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Fri, 27 May 2011 18:47:36 +0000
+
 python-django-paging (0.2.4-0sg0) lucid; urgency=low
 
   * Version bump
