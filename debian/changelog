@@ -1,3 +1,17 @@
+python-django-paging (0.2.2-0sg5) lucid; urgency=low
+
+  [ David Cramer ]
+  * Update test suite requirements to unittest2/django
+  * Bump version to 0.2.3.1
+  * Support distribute+setuptools using extras_require
+  * Ensure we configure django if its not already setup
+  * Coerce querysets to lists so that they can only ever execute once
+  * Use 'better' versioning scheme
+
+  [ SimpleGeo Nerds ]
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Fri, 27 May 2011 18:39:40 +0000
+
 python-django-paging (0.2.2-0sg4) lucid; urgency=low
 
   * UNRELEASED
